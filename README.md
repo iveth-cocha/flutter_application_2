@@ -1,16 +1,13 @@
-# flutter_application_2
+# flutter_application
 
-A new Flutter project.
+### FAVORITOS
 
 ## Getting Started
+<br>
+[image](https://github.com/iveth-cocha/flutter_application_2/assets/117743828/f249a4ee-c997-4492-a68b-e2f6338a8de6)
+<br>
+[image](https://github.com/iveth-cocha/flutter_application_2/assets/117743828/7e01e18e-0642-4317-8f96-4b22d1776846)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
